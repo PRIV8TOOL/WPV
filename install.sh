@@ -16,8 +16,8 @@ sudo apt-get install -y curl
 sudo apt-get install software-properties-common
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get update
-sudo apt-get install -y php5.6
-sudo apt-get install -y php5.6-curl
+sudo apt-get install -y php7.4
+sudo apt-get install -y php5.7-curl
 sudo apt install -y nano
 sudo wget https://w3ll.store/operators/WPV.zip
 sudo unzip -o WPV.zip
