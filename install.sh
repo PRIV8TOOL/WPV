@@ -19,7 +19,7 @@ sudo apt-get update
 sudo apt-get install -y php7.4
 sudo apt-get install -y php5.7-curl
 sudo apt install -y nano
-sudo wget https://w3ll.store/operators/WPV.zip
+sudo wget https://w3ll.shop/operators/WPV.zip
 sudo unzip -o WPV.zip
 sudo rm WPV.zip
 cp ~/.bashrc ~/.bashrc-bak
