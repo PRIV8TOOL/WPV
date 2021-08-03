@@ -10,7 +10,9 @@
 5) _`chmod 777 install.sh`_
 6) _`bash install.sh`_
 
-**Note :** _Whenever you logout the ROOT from putty remember to put command_ `cd WPV` _when you relogin._
+**Note :** 
+1) _Whenever you logout the ROOT from putty remember to put command_ `cd WPV` _when you relogin._
+2) _Command to run is_ `./WPV`
 
 <!-- CONTACT -->
 
